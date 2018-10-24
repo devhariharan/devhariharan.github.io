@@ -30,10 +30,9 @@
 }
 
 .about{
-  width: 1300px;
-  padding: 25px;
-  border: 2px black;
-  margin:5px;
+  padding-left: 25px;
+  font-size: 100%;
+  font-size: 2vw;
 }
 
 .footer {
@@ -44,5 +43,5 @@
     background-color:#343a40;
     color: white;
     text-align: center;
-    
+
 }
