@@ -30,7 +30,7 @@ body {
 /* Make the image fully responsive */
 .carousel-inner img {
     width: 100%;
-    height: 90%;
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
 
@@ -55,10 +55,24 @@ div.abtext{
   padding: 25px;
    margin: 25px;
    font-size: 100%;
-   font-size: 2vw;
+   color: #000000;
+  font-size: 175.5%;
+    line-height: 1.4;
+  }
 
-     color: #000000;
+
+@media (max-width: 899px) {
+    body {
+        font-size: 123.75%;
+    }
 }
+
+@media (max-width: 480px) {
+    body {
+        font-size: 110%;
+    }
+}
+
 
 div.abtext p{
 
