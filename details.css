@@ -35,13 +35,13 @@
     transform: rotate(-90deg);
 }
 body {
-    margin: 2px;
-    font-family: Arial;
-    background-image: url("img1.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 100%;
-    background-size: cover;
+  margin: 2px;
+  font-family: Arial;
+  background-image: url("img1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  background-size: cover;
 }
 
 
