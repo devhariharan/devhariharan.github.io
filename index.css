@@ -34,7 +34,7 @@ body {
 }
 .carousel-inner img {
     width: 100%;
-    margin-top: 50px;
+
     height: 300px;
 }
 
@@ -80,7 +80,7 @@ div.abtext{
    margin: 25px;
    font-size: 100%;
    color: #000000;
-  font-size: 175.5%;
+  font-size: 150.5%;
     line-height: 1.4;
   }
 
