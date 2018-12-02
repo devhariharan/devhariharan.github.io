@@ -226,6 +226,20 @@ div.abtext p{
     text-decoration: underline;
     transform: rotate(-90deg);
 }
+
+#img{
+  width: 100px;
+  height:100px;
+}
+
+.insta{
+  padding-top: 175px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content :space-around;
+  flex-wrap: wrap;
+}
+
 body {
     margin: 2px;
 
@@ -233,7 +247,7 @@ body {
     background-image: url("img1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 100%;
+
     background-size: cover;
 }
 
@@ -294,7 +308,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover ;
-    height: 100%;
+
 
 }
 
@@ -314,18 +328,6 @@ div.abtext p{
 
 }
 
-#img{
-  width: 100px;
-  height:100px;
-}
-
-.insta{
-  padding-top: 175px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content :space-around;
-  flex-wrap: wrap;
-}
 
 .footer {
     position :fixed;
