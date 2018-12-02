@@ -293,7 +293,6 @@ body {
     background-image: url("img1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 1000px;
     background-size: cover;
 }
 
@@ -319,6 +318,7 @@ div.abtext p{
 }
 
 .insta{
+  padding-top: 175px;
   display: flex;
   flex-flow: row wrap;
   justify-content :space-around;
