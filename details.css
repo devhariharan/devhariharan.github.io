@@ -12,7 +12,12 @@
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 800px) {
+    .insta {
 
+      padding-top: 0px;
+    }
+}
 
 
 
